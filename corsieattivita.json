@@ -1,0 +1,32 @@
+{
+	"corso": [
+		{
+			"nomeDelCorso": "Corsi di omeopatia per principianti e non"
+		},
+		{
+			"nomeDelCorso": "Corsi di omeopatia per proprietari di animali"
+		},
+		{
+			"nomeDelCorso": "Laboratori con preparazione di un rimedio omeopatico"
+		},
+		{
+			"nomeDelCorso": "Formazione relazionale"
+		}
+	],
+	"attivita": [
+		{
+			"nomeDelAttivita": "Rappresentazioni Famigliari e Sistemiche. Luogo e data da stabilire."
+		},
+		{
+			"nomeDelAttivita": "Percorsi intensivi di counseling per singole persone o coppie, di 1-2 settimane, con soggiorno al Poggiolino, Ponina 210, 52010 Capolona AR (stanza e bagno privati, cibo vegetariano). Per informazioni contattare Gabrielle Rotach per telefono o e-mail."
+		},
+		{
+			"nomeDelAttivita": "Laboratorio “Il richiamo”: Per l’essere umano gli animali domestici sono molto di più della loro utilità affettiva o materiale. Ci collegano con la nostra natura selvaggia, ma non solo. Nel sistema di convivenza tra uomo e animale si crea un campo energetico nel quale, se vogliamo guardare veramente, l’animale rivela qualcosa su noi stessi e ci aiuta a conoscerci meglio, a diventare più consapevoli. Nel laboratorio cercheremo di scoprire come i nostri animali, con amore, ci mettono uno specchio davanti agli occhi. Luogo e data da stabilire."
+		}
+	],
+	"progetti": [
+		{
+			"nomeDelProgetti": "Progetto di Dialogo delle Voci “Se il teatro diventa il teatro dei sé”. Percorso di crescita personale e professionale per attori professionali, amatoriali e allievi di scuole di teatro, o semplicemente per chi ama il teatro."
+		}
+	]
+}
